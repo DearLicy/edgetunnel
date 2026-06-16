@@ -215,3 +215,12 @@
 ---
 
 **如果您觉得项目对您有帮助，请给一个 Star 🌟，这是对我最大的鼓励！**
+
+---
+
+## 原作者信息
+
+本项目基于 [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) 二次开发。
+
+原作者：**cmliu**  
+原项目地址：[https://github.com/cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
